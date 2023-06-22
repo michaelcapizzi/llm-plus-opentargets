@@ -1,0 +1,5 @@
+langchain==0.0.202
+huggingface_hub==0.15.1
+gql==3.4.1
+text-generation==0.6.0
+openai==0.27.8
